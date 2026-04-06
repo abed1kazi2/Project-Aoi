@@ -1,5 +1,4 @@
-# Project-Aoi
-ai project 
+
 # Abed Kazi — Digital Portfolio
  
 A professional student digital portfolio built with pure HTML, CSS, and JavaScript.  
